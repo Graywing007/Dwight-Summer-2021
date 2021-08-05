@@ -18,3 +18,11 @@ blood-RAS
 blood-LES
 * incompressible/pimpleFoam/LES/
 * axisymmetric wedge of nebraska mesh (lab notebook 07/23/2019)
+
+paradise-RAS
+* incompressible/pimpleFoam/RAS/
+* $blood-RAS with dynamic cap 
+
+paradise-LES
+* incompressible/pimpleFoam/LES/
+* $blood-LES with dynamic cap 
