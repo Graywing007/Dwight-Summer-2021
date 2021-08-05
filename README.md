@@ -3,7 +3,7 @@
 Things to work on
 * dynamic meshing //Zoe
 * running blood-* on different solvers //Andrew
-* vorticity
+* vorticity //Zoe
 * LES simulations
 * make animations of blood-RAS and blood-LES
 * write up instructions for future research students
