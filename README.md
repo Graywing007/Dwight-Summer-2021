@@ -5,12 +5,11 @@ Things to work on
 * running blood-* on different solvers //Andrew
 * vorticity //Zoe
 * LES simulations
-* make animations of blood-RAS and blood-LES
 * write up instructions for future research students
 * make presentation
 
 Things done
-* 
+* make animations of blood-RAS and blood-LES //Zoe
 
 directories are for cases
 
