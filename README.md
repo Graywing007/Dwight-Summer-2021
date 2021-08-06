@@ -9,6 +9,9 @@ Things to work on
 * write up instructions for future research students
 * make presentation
 
+Things done
+* 
+
 directories are for cases
 
 blood-RAS
