@@ -2,12 +2,14 @@
 
 Things to work on
 * dynamic meshing //Zoe
-* running blood-* on different solvers //Andrew
+* running blood-* on different solvers
 * vorticity
 * LES simulations
-* make animations of blood-RAS and blood-LES
-* write up instructions for future research students
+* write up instructions for future research students //Zoe
 * make presentation
+
+Checklist of things done
+* make animations of blood-LES //Zoe
 
 directories are for cases
 
