@@ -11,6 +11,8 @@ Things to work on
 
 directories are for cases
 
+openFoam-Guide and openFoam-Manuel
+
 blood-RAS
 * incompressible/pimpleFoam/RAS/
 * axisymmetric wedge of nebraska mesh (lab notebook 07/23/2019)
