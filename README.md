@@ -1,9 +1,9 @@
 # Dwight-Summer-2021
 
 Things to work on
-* dynamic meshing //Zoe
+* dynamic meshing //Zoe, Andrew
 * running blood-* on different solvers //Andrew
-* vorticity //Zoe
+* vorticity //Zoe, Andrew
 * different turbulent model LES simulations
 * write up instructions for future research students
 * make presentation
