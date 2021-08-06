@@ -4,7 +4,7 @@ Things to work on
 * dynamic meshing //Zoe
 * running blood-* on different solvers //Andrew
 * vorticity //Zoe
-* LES simulations
+* different turbulent model LES simulations
 * write up instructions for future research students
 * make presentation
 
