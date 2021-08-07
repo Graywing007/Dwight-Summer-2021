@@ -2,6 +2,8 @@
 
 SEE SETUP for installation, Guide, Manual, instructions, etc.
 
+sh /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh
+
 Things to work on
 * dynamic meshing //Zoe
 * running blood-* on different solvers
