@@ -15,21 +15,5 @@ Things to work on
 * write up instructions for future research students //Zoe
 * make presentation
 
-directories are for cases
-
-openFoam-Guide and openFoam-Manuel
-
-blood-LES
-* incompressible/pimpleFoam/LES/
-* axisymmetric wedge of nebraska
-
-blood-RAS
-* incompressible/pimpleFoam/RAS/
-* axisymmetric wedge of nebraska mesh (lab notebook 07/23/2019)
-
-paradise-RAS
-* incompressible/pimpleFoam/RAS/
-* 3D mesh of nebraska 
-
 Checklist of things done
 * make animations of blood-LES //Zoe
