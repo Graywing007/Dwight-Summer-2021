@@ -3,7 +3,7 @@
 Things to work on
 * dynamic meshing //Zoe
 * running blood-* on different solvers
-* vorticity (https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
+* [vorticity](https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
 * LES simulations
 * write up instructions for future research students //Zoe
 * make presentation
