@@ -1,5 +1,7 @@
 # Dwight-Summer-2021
 
+SEE SETUP for installation, Guide, Manual, instructions, etc.
+
 Things to work on
 * dynamic meshing //Zoe hi -A
 * running blood-* on different solvers
@@ -15,14 +17,14 @@ directories are for cases
 
 openFoam-Guide and openFoam-Manuel
 
-blood-RAS
-* incompressible/pimpleFoam/RAS/
-* axisymmetric wedge of nebraska mesh (lab notebook 07/23/2019)
-  
 blood-LES
 * incompressible/pimpleFoam/LES/
 * axisymmetric wedge of nebraska
 
-paradise
+blood-RAS
+* incompressible/pimpleFoam/RAS/
+* axisymmetric wedge of nebraska mesh (lab notebook 07/23/2019)
+
+paradise-RAS
 * incompressible/pimpleFoam/RAS/
 * 3D mesh of nebraska 
