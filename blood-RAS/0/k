@@ -1,0 +1,67 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2.0.1                                 |
+|   \\  /    A nd           | Web:      www.OpenFOAM.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       volScalarField;
+    location    "0";
+    object      k;        //k is the Turbulent Kinetic Energy
+			  // for each new case. k=(3/2)*((U/I)^2)  U=Freestream fluid velocity
+				    // I is Turbulence Intensity and can be estimated 
+				    // I=0.16*Re       Re=Pipe Diameter Reynolds #
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+dimensions      [0 2 -2 0 0 0 0];
+
+internalField   uniform 0.06;	//0.2 - 0.06
+
+boundaryField
+{
+    inlet-I
+    {
+        type            fixedValue;
+        value           $internalField;
+    }
+
+    inletWall-III
+    {
+        type            kqRWallFunction;
+        value           $internalField;
+    }
+
+    outlet
+    {
+	type		zeroGradient;
+/*
+        type            inletOutlet;
+        inletValue      $internalField;
+        value           $internalField;
+*/
+    }
+
+    topWall
+    {
+        type            kqRWallFunction;
+        value           $internalField;
+    }
+
+    internalWall
+    {
+        type            kqRWallFunction;
+        value           $internalField;
+    }
+
+
+    #include "include/patchesWalls"
+
+}
+
+
+// ************************************************************************* //
