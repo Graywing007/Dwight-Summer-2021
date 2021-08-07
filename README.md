@@ -3,9 +3,9 @@
 SEE SETUP for installation, Guide, Manual, instructions, etc.
 
 Basement's Computer OpenFOAM is compiled using Docker Desktop.
-	* open Ubuntu
-	* <sh /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh>
-	* <cd /home/openfoam/run/>
+1. open Ubuntu
+2. <sh /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh>
+3. <cd /home/openfoam/run/>
 
 Things to work on
 * dynamic meshing //Zoe
