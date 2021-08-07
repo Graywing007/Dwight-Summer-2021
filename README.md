@@ -2,8 +2,10 @@
 
 SEE SETUP for installation, Guide, Manual, instructions, etc.
 
-sh /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh
-cd /home/openfoam/run/
+Basement's Computer OpenFOAM is compiled using Docker Desktop.
+	1. open Ubuntu
+	2. <sh /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh>
+	3. <cd /home/openfoam/run/>
 
 Things to work on
 * dynamic meshing //Zoe
@@ -12,9 +14,6 @@ Things to work on
 * LES simulations
 * write up instructions for future research students //Zoe
 * make presentation
-
-Checklist of things done
-* make animations of blood-LES //Zoe
 
 directories are for cases
 
@@ -31,3 +30,6 @@ blood-RAS
 paradise-RAS
 * incompressible/pimpleFoam/RAS/
 * 3D mesh of nebraska 
+
+Checklist of things done
+* make animations of blood-LES //Zoe
