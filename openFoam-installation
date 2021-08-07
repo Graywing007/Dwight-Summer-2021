@@ -8,7 +8,7 @@ There are several ways to install openFoam (use instructions from openfoam.* pag
 
 From my personal experience, 
 	- if using Mac OS X, use openFoam on Docker Desktop
-	- if using Windows, install WSL and subsystem for Linux (Ubuntu)
+	- if using Windows, follow [this](http://www.cfdyna.com/Home/openFOAM_Win.html)
 	- if using Ubuntu, Linux, you have it easy
 	
 For post-processing, it is best to install native [paraview](https://www.paraview.org/)
