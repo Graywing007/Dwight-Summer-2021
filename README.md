@@ -1,4 +1,5 @@
 # Dwight-Summer-2021
+This branch is for running on the Pomona supercomputers
 
 SEE SETUP for installation, Guide, Manual, instructions, etc.
 
