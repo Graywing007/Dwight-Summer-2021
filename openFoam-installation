@@ -1,15 +1,20 @@
-There are two branches of openFoam: ESI-OpenCFD (openfoam.com) and OpenFOAM-9 (openfoam.org).
+There are two branches of openFoam: ESI-OpenCFD [openfoam.com](https://www.openfoam.com/) and OpenFOAM-9 [openfoam.org](https://openfoam.org/).
 
 You can install openFoam natively or through Docker. 
 
 OpenFoam 
 
-I prefer using Docker and down , but if you want to install
 
 Mac
 
 
-Windows
+Windows 10
+		Microsoft Ubuntu sign in
+				user: vortexPegasus@outlook.com 
+				pw: Sphagnum47
+				misc. info: name: openFoam SphagnumMoss 
+										born: April 7, 1974
+
 
 
 Notes:
