@@ -1,7 +1,7 @@
 # Dwight-Summer-2021
 
 Things to work on
-* dynamic meshing //Zoe
+* dynamic meshing //Zoe hi -A
 * running blood-* on different solvers
 * [vorticity](https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
 * LES simulations
