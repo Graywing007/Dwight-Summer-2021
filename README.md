@@ -3,7 +3,7 @@
 SEE SETUP for installation, Guide, Manual, instructions, etc.
 
 Things to work on
-* dynamic meshing //Zoe hi -A
+* dynamic meshing //Zoe
 * running blood-* on different solvers
 * [vorticity](https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
 * LES simulations
