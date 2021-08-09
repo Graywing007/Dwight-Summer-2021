@@ -15,12 +15,13 @@ For post-processing, it is best to install native [paraview](https://www.paravie
 
 
 OpenFoam Installation Tips & Notes & Troubleshooting for Systems
-	Mac
+	
+Mac
 * openFoam container in docker does not come with text editor or paraview 
 * so, use two terminal windows--one to use nano or vim (text editor) and the other to run openFoam
 * you will have to run a .sh script to set up docker, find explicit instructions [here](https://www.addictivetips.com/mac-os/run-shell-sh-script-on-macos/)
 	  
-	Windows 10
+Windows 10
 1. https://www.youtube.com/watch?v=cUbC0MrkiOA
 2. I still haven't figured out a streamlined approach to setting openFoam up on Windows 10. Here are misc. that could help:
 3. If compiling on Docker Desktop, install WSL. Check version <wsl.exe -l -v>. If Ubuntu (20.04) is 1, run <wsl.exe --set-default-version Ubuntu (*) 2> to set it to 2.
