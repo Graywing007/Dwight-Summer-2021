@@ -12,10 +12,10 @@ decomposeParDict in basement's computer is distributed in 8 CPU cores (2 2 2) in
 Things to work on
 * dynamic meshing //Zoe
 * running blood-* on different solvers
-* [vorticity](https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
 * LES simulations
 * write up instructions for future research students //Zoe
 * make presentation
 
 Checklist of things done
 * make animations of blood-LES //Zoe
+* [vorticity](https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
