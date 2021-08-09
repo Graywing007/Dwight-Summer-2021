@@ -1,5 +1,12 @@
+sphinx-LES
+* LESModel        SpalartAllmarasIDDES;
+* DYNAMIC axisymmetric wedge of nebraska
+
 fairy-LES
 * LESModel        SpalartAllmarasIDDES;
+* axisymmetric wedge of nebraska
+* on Basement's Computer
+* functionObject vorticity computed
     
 blood-LES
 * incompressible/pimpleFoam/LES/
