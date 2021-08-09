@@ -5,7 +5,7 @@ SEE SETUP for installation, Guide, Manual, instructions, etc.
 Basement's computer OpenFOAM is compiled using Docker Desktop.
 1. open Ubuntu
 2. <sh /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh>
-3. <cd /home/openfoam/run/>
+3. <cd /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh>
 
 decomposeParDict in basement's computer is distributed in 8 CPU cores (2 2 2) instead of 10.
 
