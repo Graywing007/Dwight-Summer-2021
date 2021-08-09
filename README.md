@@ -19,3 +19,6 @@ Things to work on
 Checklist of things done
 * make animations of blood-LES //Zoe
 * [vorticity](https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
+
+
+[Develop Openfoam](https://develop.openfoam.com/Development/openfoam)
