@@ -1,6 +1,7 @@
 sphinx-LES
 * LESModel        SpalartAllmarasIDDES;
 * DYNAMIC axisymmetric wedge of nebraska
+* functionObject vorticity computed
 
 fairy-LES
 * LESModel        SpalartAllmarasIDDES;
