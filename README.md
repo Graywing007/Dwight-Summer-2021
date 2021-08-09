@@ -7,7 +7,7 @@ Basement's computer OpenFOAM is compiled using Docker Desktop.
 2. <sh /mnt/c/Users/Fluent/Desktop/openfoam-docker.sh>
 3. <cd /mnt/c/Users/Fluent/Desktop/run/>
 
-decomposeParDict in basement's computer is distributed in 8 CPU cores (2 2 2) instead of 10.
+decomposeParDict in basement's computer should be distributed to 8 CPU cores (2 2 2) instead of 10.
 
 Things to work on
 * dynamic meshing //Zoe
