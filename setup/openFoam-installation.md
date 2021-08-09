@@ -20,7 +20,6 @@ OpenFoam Installation Tips & Notes & Troubleshooting for Systems
 	  - so, use two terminal windows--one to use nano or vim (text editor) and the other to run openFoam
 	  - you will have to run a .sh script to set up docker, find explicit instructions [here](https://www.addictivetips.com/mac-os/run-shell-sh-script-on-macos/)
 	  
-	  
 	Windows 10
 	  1. https://www.youtube.com/watch?v=cUbC0MrkiOA
 	  2. I still haven't figured out a streamlined approach to setting openFoam up on Windows 10. Here are misc. that could help:
