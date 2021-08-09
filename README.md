@@ -12,7 +12,7 @@ decomposeParDict in basement's computer is distributed in 8 CPU cores (2 2 2) in
 Things to work on
 * dynamic meshing //Zoe
 * running blood-* on different solvers
-* LES simulations
+* LES model simulations
 * write up instructions for future research students //Zoe
 * make presentation
 
