@@ -10,7 +10,7 @@ Basement's computer OpenFOAM is compiled using Docker Desktop.
 decomposeParDict in basement's computer should be distributed to 8 CPU cores (2 2 2) instead of 10.
 
 Things to work on
-* dynamic meshing //Zoe (sixDofRigidBodyMotion)
+* dynamic meshing //Zoe (sixDofRigidBodyMotion -- use either dynamicOversetFvMesh or dynamicMotionSolverFvMesh)
 * running blood-* on different solvers
 * LES model simulations
 * write up instructions for future research students //Zoe
