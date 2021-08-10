@@ -20,7 +20,7 @@ Checklist of things done
 * make animations of blood-LES //Zoe
 * [vorticity](https://www.youtube.com/watch?v=4wGO__XLsmg) and circulation //Zoe
 
-
+Misc.
 * [Develop Openfoam](https://develop.openfoam.com/Development/openfoam)
 * [Over Set Meshes](https://www.youtube.com/watch?v=QEGnNLvQVfA)
 * [Smagorinsky Turbulence](https://www.youtube.com/watch?v=V8ydRrdCzl0)
