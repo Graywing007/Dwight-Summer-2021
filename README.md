@@ -25,3 +25,5 @@ Misc.
 * [Develop Openfoam](https://develop.openfoam.com/Development/openfoam)
 * [Over Set Meshes](https://www.youtube.com/watch?v=QEGnNLvQVfA)
 * [Smagorinsky Turbulence](https://www.youtube.com/watch?v=V8ydRrdCzl0)
+* [axisymmetric wedges 1](https://www.cfd-online.com/Forums/openfoam-solving/186540-wedge-boundary-condition-math-behind.html)
+* [axisymmetric wedges 2](https://www.cfd-online.com/Forums/openfoam-meshing/186049-2d-axisymmetric-model-openfoam-4-0-a.html#post645900)
